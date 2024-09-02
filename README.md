@@ -31,5 +31,5 @@ To get started with the Beers N Cheers project, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/beers-n-cheers.git
+   git clone https://github.com/prathitkulkarni/Beers-N-Cheers.git
    cd beers-n-cheers
